@@ -1,0 +1,104 @@
+.img{
+	width:100%;
+	height:500px;
+}
+body{
+	background-color: #3498db;
+	font-size: 16px;
+	padding: 0px;
+	margin: 0px;
+}
+h1{
+	color: #f9ca24;
+}
+
+.button{
+	border: 2px outset limegreen;
+	color: #f1c40f;
+	text-decoration: none;
+	border-radius: 3px;
+	padding: 10px 32px;
+}
+.button:hover{
+	color: blue;
+	background-color: #f9ca24;
+	transition: all 1s ease;
+}
+.atitle{
+	font-family: cursive;
+	font-size: 28px;
+	color: #2ecc71;
+	text-decoration: none;
+}
+.img1{
+	width: 300px;
+	height: 300px;
+}
+.nav1{
+	background-color: blue;
+	width: 100%;
+	font-size: 18px;
+	font-family: monospace;
+}
+.anav{
+	color: yellow;
+	font-size: 18px;
+	font-family: monospace;
+	text-decoration: none;
+	cursor: pointer;
+}
+.anav2{
+	cursor: default;
+	color: yellow;
+}
+form{
+	background-color:silver; 
+	font-family:cursive; 
+	width:300px;
+	border:2px solid black;
+	border-radius:15px;
+	text-align: center;
+	position: fixed; top: 50%; left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+input{
+	width:250px;
+}
+.buttonform{
+	width:150px;
+	height:25px;
+	background-color:yellow;
+	margin-bottom:10px;
+	margin-top:10px;
+	font-family:cursive;
+	border-radius:15px;
+	text-decoration: none;
+}
+.buttonform:hover{
+	background-color:red;
+	color:white;
+}
+.yellowtext{
+	color: yellow;
+}
+.img2{
+	width: 400px;
+	height: 300px;
+}
+.bi2{position: fixed; width:300px; height: 134px; left: 5%; top: 7%; border: 3px solid gold; background-color:yellow ;}
+.bi3{position: fixed; width: 300px; height: 134px; left: 40%; top: 7%; border: 3px solid gold; background-color: yellow;}
+.bi4{position: fixed; width: 300px; height: 134px; left: 75%; top: 7%; border: 3px solid gold; background-color: yellow;}
+
+.color{
+	color: blue;
+}
+
+.color1{
+	color: silver;	
+}
+.bf{position: fixed; width: 300px; height: 30%;}
+.te{position: fixed; top: 230px; left: 100px; }
+.clon{position: fixed; width: 300px; height: 256px; left: 35%;}
+.te2{position: fixed; left:39% ; top:256px ;}
